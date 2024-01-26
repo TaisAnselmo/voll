@@ -16,15 +16,15 @@
         },
         {
             "id": 3,
-            "imagem": "https://imgur.com/ho9CUwp.png",
-            "nome": "Camila Fernanda",
+            "imagem": "https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRckYVd4-t--NtDn26p-_dgyJ2K5Tc0FSciOSRt81lHkQ&oe=65C0D361&_nc_sid=e6ed6c&_nc_cat=110",
+            "nome": "Taís Anselmo",
             "especialidade": "Oftamologista",
             "nota": 4.3
         },
         {
             "id": 4,
-            "imagem": "https://imgur.com/sVAFzFy.png",
-            "nome": "Bruno Divino",
+            "imagem": "https://media.licdn.com/dms/image/C4D03AQG8P3EJZzx3rw/profile-displayphoto-shrink_200_200/0/1617847350237?e=1711584000&v=beta&t=pN7ZiPu5R8FnrA819ZHWSPvGBxZD39Ku-81IkdEnhr4",
+            "nome": "Gabriel Soares",
             "especialidade": "Psiquiatra",
             "nota": 4.7
         }
